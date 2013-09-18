@@ -5,6 +5,7 @@ This is the Rails 3 template That Buttercloud uses to speed up the initiation of
 ### Overview
 ---
 * Sets up the app with your choice of Ruby and gemset
+* Sets up the app for postgres database
 * Removes Rails default files (index.html, rails.png)
 * Removes timestamps from migrations
 * Sets up a Git Repo
@@ -27,7 +28,13 @@ Please configure database.yml with your postgres username and password before us
 ---
 Clone the repository using
 
-`git clone git://github.com/damireh/rails3-template.git`
+`git clone https://github.com/nayefmuhiar/buttercloud-rails-3-template.git`
+
+`cd rails3-template.git`
+
+Configure database.yml with your postgres username and password before using the template
+
+'cd /your/preffered/app/path'
 
 Create a new Rails application as normal, specifying the path to the template script with the *-m* flag
 
