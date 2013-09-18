@@ -30,7 +30,7 @@ Clone the repository using
 
 `git clone https://github.com/nayefmuhiar/buttercloud-rails-3-template.git`
 
-`cd rails3-template.git`
+`cd buttercloud-rails-3-template`
 
 Configure database.yml with your postgres username and password before using the template
 
