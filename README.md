@@ -34,7 +34,7 @@ Clone the repository using
 
 Configure database.yml with your postgres username and password before using the template
 
-'cd /your/preffered/app/path'
+'cd to/your/preferred/app/path'
 
 Create a new Rails application as normal, specifying the path to the template script with the *-m* flag
 
