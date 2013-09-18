@@ -1,6 +1,6 @@
 ## Rails 3 Application Template with postgres from Buttercloud
 
-This is the Rails 3 template That Buttercloud uses to speed up the initiation of a new project
+This is the Rails 3 template that Buttercloud uses to speed up the initiation of a new project
 
 ### Overview
 ---
